@@ -1,1 +1,2 @@
-Extracted and analyzed patterns exhibited in graphical data and applied into Facebook friend recommendation to predict and measure the likelihood of one Facebook user being friends with another Facebook user.
+Extracted and analyzed patterns exhibited in graphical data and applied into Facebook friend recommendation 
+to predict and measure the likelihood of one Facebook user being friends with another Facebook user.
